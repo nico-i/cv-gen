@@ -2,7 +2,7 @@
   "name": "cv-ops",
   "version": "0.0.1",
   "dependencies": {
-    "@astrojs/check": "^0.5.6",
+    "@astrojs/check": "^0.7.0",
     "@astrojs/tailwind": "^5.1.0",
     "@nico-i/cv-data": "1.10.0",
     "astro": "^4.4.11",
