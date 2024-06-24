@@ -25,7 +25,7 @@
   },
   "type": "module",
   "devDependencies": {
-    "@dotenvx/dotenvx": "^0.26.0",
+    "@dotenvx/dotenvx": "^1.0.0",
     "@types/node": "^20.11.25"
   }
 }
